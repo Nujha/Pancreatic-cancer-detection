@@ -1,0 +1,11 @@
+streamlit
+numpy
+torch
+torchvision
+joblib
+scikit-learn
+matplotlib
+Pillow
+opencv-python
+shap
+imblearn
